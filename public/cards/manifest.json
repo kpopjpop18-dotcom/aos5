@@ -3,9 +3,10 @@
   "version": 1,
   "cards": [
     { "id": "card-01", "image": "/cards/card-01.jpg", "rarity": "common" },
-    { "id": "card-02", "image": "/cards/card-02.jpg", "rarity": "rare" },
-    { "id": "card-03", "image": "/cards/card-03.jpg", "rarity": "ultra" },
-    { "id": "card-04", "image": "/cards/card-04.jpg", "rarity": "impossible" },
-    { "id": "card-05", "image": "/cards/card-05.jpg", "rarity": "rare" }
+    { "id": "card-02", "image":tumblr_ff8477b54a5f87fe1419923b7d484b24_fe2ea873_1280.jpg", "rarity": "common" },
+    { "id": "card-03", "image": "/cards/card-02.jpg", "rarity": "rare" },
+    { "id": "card-04", "image": "/cards/card-03.jpg", "rarity": "ultra" },
+    { "id": "card-05", "image": "/cards/card-04.jpg", "rarity": "impossible" },
+    { "id": "card-06", "image": "/cards/card-05.jpg", "rarity": "rare" }
   ]
 }
